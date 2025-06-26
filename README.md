@@ -1,6 +1,6 @@
 # 👋 Oi, Meu nome é Shirley Valtolti!
 
-🎯 **Analista de Qualidade de Software** | Presidente Prudente – SP  
+🎯 Sou **Analista de Qualidade de Software**, moro em Presidente Prudente – SP.
 💡 Atuo com **testes manuais e automatizados**, com experiência prática em **projetos reais** e participação em **iniciativas sociais como QA voluntária**.
 
 ---
